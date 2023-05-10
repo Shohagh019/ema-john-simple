@@ -1,19 +1,24 @@
-.header{
-    background-color: #1C2B35;
-    height: 80px;
-    display: flex; 
-    justify-content: space-between;
-    padding-left: 100px; 
-    padding-right: 100px;
-    align-items: center;
+.header {
+  background-color: #1c2b35;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  align-items: center;
 }
 
-nav.header a{
-    text-decoration: none;
-    color: aliceblue;
-    margin-left: 30px;
+nav.header a {
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 30px;
 }
 
-nav.header a:hover{
-    color:bisque
+nav.header a:hover {
+  color: bisque;
+}
+.text-white {
+  color: antiquewhite;
+  padding-left: 15px;
+  padding-right: 15px;
 }
